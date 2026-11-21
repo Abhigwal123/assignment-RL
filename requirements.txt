@@ -1,0 +1,10 @@
+# StockRL Mini Dependencies
+# Core Reinforcement Learning Environment, Testing, and Data Tools
+gymnasium>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+pytest>=8.0.0
+
+fastapi>=0.115.0
+uvicorn>=0.30.0
+streamlit>=1.30.0
